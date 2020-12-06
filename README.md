@@ -5,6 +5,7 @@ Vtuberのキャラクターの設定や、活動の準備を行うリポジト�
 
 - AtCoder: https://atcoder.jp/users/KasuyaMofu
 - note: https://note.com/kasuyamofu
+- notion: https://www.notion.so/kasuyamofu/
 - pixivFANBOX: https://kasuyamofu.fanbox.cc/
 - Skeb: https://skeb.jp/@KasuyaMofu
 - Steam: https://steamcommunity.com/id/KasuyaMofu/
