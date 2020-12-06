@@ -1,7 +1,7 @@
 ---
 name: お買い物ログ
 about: 1か月に1回
-title: 
+title: お買い物ログ YYYY/MM
 labels: お買い物ログ
 assignees: KasuyaMofu
 ---
@@ -9,7 +9,7 @@ assignees: KasuyaMofu
 
 ## 概要
 
-n月の買い物内容
+YYYY/MMの買い物内容
 
 ## ゴール
 
