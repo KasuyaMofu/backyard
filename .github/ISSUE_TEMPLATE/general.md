@@ -1,8 +1,8 @@
 ---
-name: Generalテンプレート
-about: Use this template for tracking new features.
+name: 長期用テンプレート
+about: 長期で行う用
 title: 
-labels: 
+labels: 長期
 assignees: KasuyaMofu
 ---
 
@@ -21,17 +21,3 @@ assignees: KasuyaMofu
 ### やること
 
 - [ ] 
-- [ ] 
-- [ ] 
-
-### 完了条件
-
-- [ ] 
-- [ ] 
-- [ ] 
-
-### 補足事項、資料
-
-- 
-- 
-- 
